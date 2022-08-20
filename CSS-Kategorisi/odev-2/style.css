@@ -1,0 +1,66 @@
+.conteiner {
+  max-width: 1500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.main {
+  background-color: #eeee;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.buttons {
+  color: black;
+}
+
+.button {
+  display: flex;
+  gap: 5px;
+}
+p {
+  margin: 2px;
+}
+
+.button-1 {
+  background-color: rgb(175, 173, 173);
+  border: 1px solid black;
+  border-radius: 3px;
+  margin-top: 1px;
+  text-decoration: none;
+  color: black;
+  padding: 1px 5px 1px 5px;
+}
+
+.cards {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  column-gap: 2px;
+}
+.card {
+  background-color: #65cbbe;
+  display: flex;
+  gap: 5px;
+  padding: 5px 20px;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1em;
+}
+.button-s {
+  text-decoration: none;
+  background-color: #eeee;
+  border-radius: 5px;
+  padding: 1px 5px 1px 5px;
+  color: black;
+}
+.footer {
+  margin-top: 30px;
+}
+.search {
+  width: 250px;
+}
