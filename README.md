@@ -1,2 +1,5 @@
-# thundergokhan-My-Patika-Projects
 My-Patika-Projects  
+I've done Front-end Projects , ...
+• 
+Gökhan Yıldırım 
+•
