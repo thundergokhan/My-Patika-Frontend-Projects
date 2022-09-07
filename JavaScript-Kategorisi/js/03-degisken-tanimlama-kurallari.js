@@ -12,9 +12,9 @@ let fullName = "";
 let kodluyoruzServerInfo = ""; // bu dogru :)
 let kodluyoruzSERverInfo = ""; // bu dogru kullanim degil :(
 
-// let firstName = "Hakan", lastName = "Yalcinkaya"
-let firstName = "Hakan";
-let lastName = "Yalcinkaya";
+// let firstName = "Gokhan", lastName = "Yildirim"
+let firstName = "Gokhan";
+let lastName = "Yildirim";
 console.log(firstName, lastName);
 
 // UPPER_CASE Kullanimi:
