@@ -20,3 +20,6 @@ kisa isminiz: ${username[0]}.
 `;
 
 console.log(info);
+
+
+// String ifade yazarken, " veya ' kullanırız. 
