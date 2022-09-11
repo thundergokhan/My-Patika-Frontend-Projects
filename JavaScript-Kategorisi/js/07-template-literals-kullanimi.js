@@ -23,3 +23,5 @@ console.log(info);
 
 
 // String ifade yazarken, " veya ' kullanırız. 
+// alt gr + ş tuşuna basılınca çıkan karakter tick, alt gr + virgül tuşuna basınca çıkan karakter backtick. 
+// Burada backtick kullanmamız lazım normal tick aynı işlevi sağlamıyor.
