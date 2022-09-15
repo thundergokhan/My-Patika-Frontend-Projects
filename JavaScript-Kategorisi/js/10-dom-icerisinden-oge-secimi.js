@@ -12,3 +12,6 @@ let link = document.querySelector("#kodluyoruzLink");
 link.innerHTML += " degisti";
 link.style.color = "red";
 link.classList.add("btn");
+
+// querySelector 1 tane seçiyor
+// querySelectorall ise hepsini seçiyor
