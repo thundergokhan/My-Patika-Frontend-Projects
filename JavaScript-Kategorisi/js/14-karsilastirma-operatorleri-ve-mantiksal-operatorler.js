@@ -2,7 +2,7 @@
 // https://www.w3schools.com/js/js_comparisons.asp
 
 let price = "0";
-let user = "hakan";
+let user = "gokhan";
 
 // == Eşitse
 console.log("== :", price == 1);
