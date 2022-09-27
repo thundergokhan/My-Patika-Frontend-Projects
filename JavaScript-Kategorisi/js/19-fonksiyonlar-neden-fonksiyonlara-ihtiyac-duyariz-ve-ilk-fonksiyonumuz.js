@@ -1,14 +1,13 @@
 // ** Ilk Fonksiyonumuzu Tanimlamak:
 
 function helloWorld() {
-    console.log("Hello World")
+  console.log("Hello World");
 }
 
 function hello() {
-    console.log("Merhaba")
-    helloWorld()
+  console.log("Merhaba");
+  helloWorld();
 }
-
 
 // hata alabiliriz...
 // function userCheck () {
@@ -21,5 +20,4 @@ function hello() {
 //     }
 // }
 
-
-hello() // calistir
+hello(); // calistir
