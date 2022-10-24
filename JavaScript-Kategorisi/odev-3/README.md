@@ -1,6 +1,9 @@
 Ödev 3
+
 Asian Kitchen's Menu
+
 ![image](https://user-images.githubusercontent.com/82091624/197576658-f6f0fe5f-d690-42a7-97b7-e6f2a9769a11.png)
+
 Süper yetenekli mezunlarımızdan Aycan Aleyna Yerdelen'in geliştirdiği proje ile karşınızdayız!
 
 Bir uzak doğu restoran menüsü şeklinde düzenlenmiş sitede JavaScript sayesinde sayfalar arasında gezinilebilmekte. Oldukça hoş bir görüntüye sahip bu sitenin HTML ve CSS kodlarını size hazır vereceğiz. Sizden istediğimiz JavaScript kısmını tamamlamanız. Siteyi detaylı incelemek için Asian Kitchen's Menu
