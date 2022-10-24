@@ -1,6 +1,6 @@
 Ödev 2
 <hr>
-Javascript ile To Do List
+<b> Javascript ile To Do List </b>
 </hr>
 
 ![image](https://user-images.githubusercontent.com/82091624/197573032-1af201ad-6ebb-420d-a05a-cfa5100d63ca.png)
