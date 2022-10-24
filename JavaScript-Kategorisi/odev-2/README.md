@@ -1,4 +1,4 @@
-<hr>Ödev 2</hr>
+Ödev 2
 <hr>
 Javascript ile To Do List
 </hr>
