@@ -1,4 +1,4 @@
-# My Patika Projects
+# My Patika Frontend Projects
 
 This repository contains my solutions to the programming assignments and projects from [Patika.dev](https://www.patika.dev/). Patika is an online education platform that offers free programming courses and resources.
 
